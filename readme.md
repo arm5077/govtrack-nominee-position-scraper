@@ -1,0 +1,1 @@
+Uses Govtrack's [vote API](https://www.govtrack.us/developers/api#endpoint_vote) (which is going away soon, :sob:) to pull the names of every Senate-confirmed position that has gone through a successful nomination, outputting them to console.
